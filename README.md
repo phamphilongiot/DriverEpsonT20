@@ -6,8 +6,8 @@ This is a very simple driver that provides buffered raster printing and paper cu
 
 - To compile this on a raspberry pi, you will first need to install two cups dev packages:
 ```
-sudo apt-get install libcups2-dev
-sudo apt-get install libcupsimage2-dev
+sudo apt-get install libcups2-dev -y
+sudo apt-get install libcupsimage2-dev -y
 ```
 
 
