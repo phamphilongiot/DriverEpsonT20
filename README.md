@@ -9,5 +9,10 @@ This is a very simple driver that provides buffered raster printing and paper cu
 sudo apt-get install libcups2-dev -y
 sudo apt-get install libcupsimage2-dev -y
 ```
-
+```
+sudo make
+```
+```
+sudo make install
+```
 
